@@ -24,6 +24,7 @@ const HeroSection = ({ onGeneration }) => {
         'A cute orange cat astronaut exploring Mars, realistic, dramatic lighting',
         'A magical forest with glowing mushrooms and fireflies, fantasy art',
         'A luxury sports car driving through a rainy cyberpunk city, cinematic',
+        'create an image of a beautiful house in a village ',     
       ];
     
       // FUNCTION FOR GENERATE IMAGE 
