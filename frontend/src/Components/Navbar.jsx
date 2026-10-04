@@ -33,10 +33,7 @@ const Navbar = () => {
         {/* Right Side */}
         <div className="flex items-center gap-2 sm:gap-4">
 
-          {/* Hugging Face */}
-          <div className="hidden rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-gray-400 sm:block">
-            Powered by <span className="text-gray-300">Hugging Face</span>
-          </div>
+
 
           {user ? (
             <>
